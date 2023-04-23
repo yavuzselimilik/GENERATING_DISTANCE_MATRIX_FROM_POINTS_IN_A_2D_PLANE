@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GENERATING_DISTANCE_MATRIX_FROM_POINTS_IN_A_2D_PLANE", "GENERATING_DISTANCE_MATRIX_FROM_POINTS_IN_A_2D_PLANE\GENERATING_DISTANCE_MATRIX_FROM_POINTS_IN_A_2D_PLANE.csproj", "{A02311FB-7B7A-4F61-B9C4-9634B81A9664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A02311FB-7B7A-4F61-B9C4-9634B81A9664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02311FB-7B7A-4F61-B9C4-9634B81A9664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02311FB-7B7A-4F61-B9C4-9634B81A9664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02311FB-7B7A-4F61-B9C4-9634B81A9664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {159C032C-14AE-4F18-AB2E-51B7B8A9E678}
+	EndGlobalSection
+EndGlobal
